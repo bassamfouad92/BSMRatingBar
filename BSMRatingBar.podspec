@@ -25,10 +25,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Bassam Fouad" => "bassamfouad92@gmail.com" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/bassamfouad92/BSMRatingBar"
+s.homepage = "https://bassamfouad92:gamerbsm92@github.com/bassamfouad92/BSMRatingBar"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/bassamfouad92/BSMRatingBar.git",
+s.source = { :git => "https://bassamfouad92:gamerbsm92@github.com/bassamfouad92/BSMRatingBar.git",
 :tag => "#{s.version}" }
 
 # 7
