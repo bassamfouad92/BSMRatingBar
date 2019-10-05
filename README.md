@@ -1,10 +1,6 @@
 # BSMRatingBar
 Animated Rating bar 
 
-# OKAlertController
-
-Animated Rating bar 
-
 ![Alt text](Resources/screen1.png)
 
 
